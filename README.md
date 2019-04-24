@@ -4,6 +4,15 @@ A part of the Socar Test.
 
 Developed in Nodejs , Sequelize.js & Express and MySQL this repo contains the api server
 
+### Prerequisites
+
+1. MySQL Instance with database credentials
+2. sequelize-cli 
+```base
+npm install -g sequelize-cli
+```
+https://github.com/sequelize/cli
+
 
 ## Installation
 
