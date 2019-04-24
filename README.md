@@ -31,13 +31,12 @@ yarn start
 4. Update config/config.json file with database credentials
 
 5. Run migrations 
-npm 
+ 
 ```bash
 sequelize db:migrate
 ```
 
-6. Run seeds for some initial data 
-npm 
+6. Run seeds for some initial data  
 ```bash
 sequelize db:seed:all
 ```
