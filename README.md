@@ -1,4 +1,4 @@
-# Bulletin Board
+# Bulletin Board API
 
 A part of the Socar Test. 
 
